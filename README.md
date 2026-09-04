@@ -1,4 +1,4 @@
-![Banner](banner.svg)
+![Banner](banner.PNG)
 
 ```js
 const Royston = {
